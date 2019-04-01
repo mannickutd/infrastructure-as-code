@@ -1,0 +1,9 @@
+*/.env
+.tfstate
+*.log
+*.bak
+*.backup
+.terraform/
+terratest/vendor/*
+terraform.tfstate
+terraform.tfstate.backup
